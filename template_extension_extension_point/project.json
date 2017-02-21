@@ -1,1 +1,8 @@
-{"guid":"template_extension_extension_point","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_extension_extension_point.git"}}
+{
+    "guid":"template_extension_extension_point",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_extension_extension_point.git"
+    }
+}
